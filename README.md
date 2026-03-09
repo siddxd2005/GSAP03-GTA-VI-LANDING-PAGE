@@ -1,6 +1,10 @@
 ## 🐦‍🔥GSAP03- GTAVI LANDING PAGE
 This document provides a high-level introduction to the GTA VI Landing Page project, a browser-based animated landing page built with React and GSAP. This page covers the project's purpose, technology stack, and overall architecture.
 
+
+https://github.com/user-attachments/assets/319d1e8d-e0c6-4b9b-af46-6d9fd4eec393
+
+
 ### PROJECT PURPOSE
 The GTA VI Landing Page is a single-page web application that presents an animated landing experience for the GTA VI game. The application features:
 
